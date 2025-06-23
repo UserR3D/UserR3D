@@ -8,7 +8,7 @@
 </div>
 <br><hr>
 <div>
-  <a href="https://github.com/UserR3D/github-readme-stats">
+  <a href="https://github.com/UserR3D/Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=UserR3D&repo=Portfolio&show_owner=true&theme=radical"/>
   </a>
 </div>
